@@ -7,7 +7,7 @@ Implemented dwarfs:
 
 - Sparse Linear Algebra: [SparseBench]()
 - N-Body Methods: [MD-Bench]()
-- Structured Grids: [NuSif-BasicSolver]()
+- Structured Grids: [NuSif-Solver]()
 
 Additional basic benchmarks:
 - Memory hierarchy bandwidth: [TheBandwidthBenchmark]()
