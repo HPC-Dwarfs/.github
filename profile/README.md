@@ -5,9 +5,9 @@ View from Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-
 
 Implemented dwarfs:
 
-- Sparse Linear Algebra: [SparseBench]()
+- Sparse Linear Algebra: [SparseBench](https://github.com/HPC-Dwarfs/SparseBench)
 - N-Body Methods: [MD-Bench]()
-- Structured Grids: [NuSif-Solver]()
+- Structured Grids: [NuSif-Solver](https://github.com/HPC-Dwarfs/NuSiF-Solver)
 
 Additional basic benchmarks:
 - Memory hierarchy bandwidth: [TheBandwidthBenchmark]()
