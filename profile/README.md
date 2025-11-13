@@ -9,5 +9,5 @@ Implemented dwarfs:
 - N-Body Methods: [MD-Bench]()
 - Structured Grids: [NuSif-Solver](https://github.com/HPC-Dwarfs/NuSiF-Solver)
 
-Additional basic benchmarks:
+Benchmarks:
 - Memory hierarchy bandwidth: [TheBandwidthBenchmark]()
