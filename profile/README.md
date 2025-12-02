@@ -7,7 +7,7 @@ Implemented dwarfs:
 
 - Sparse Linear Algebra: [SparseBench](https://github.com/HPC-Dwarfs/SparseBench)
 - N-Body Methods: [MD-Bench](https://github.com/HPC-Dwarfs/MD-Bench)
-- Structured Grids: [NuSif-Solver](https://github.com/HPC-Dwarfs/NuSiF-Solver)
+- Structured Grids: [CFD-Bench](https://github.com/HPC-Dwarfs/CFD-Bench)
 
 Benchmarks:
 - Memory hierarchy bandwidth: [TheBandwidthBenchmark](https://github.com/HPC-Dwarfs/TheBandwidthBenchmark)
