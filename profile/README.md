@@ -8,7 +8,7 @@ This is a collection of portable C benchmark implementations for the HPC dwarfs 
 | N-Body Methods | [MD-Bench](https://github.com/HPC-Dwarfs/MD-Bench) |
 | Structured Grids + Sparse Linear Algebra | [CFD-Bench](https://github.com/HPC-Dwarfs/CFD-Bench) |
 | Structured Grids | [LBM-Bench](https://github.com/HPC-Dwarfs/LBM-Bench) |
-| Spectral Methods | DFT-Bench *(coming soon)* |
+| Spectral Methods | DFT-Bench (https://github.com/HPC-Dwarfs/DFT-Bench) |
 | Signal Processing | [RabbitCT](https://github.com/HPC-Dwarfs/RabbitCT) |
 | Streaming Kernels | [TheBandwidthBenchmark](https://github.com/HPC-Dwarfs/TheBandwidthBenchmark) |
 
